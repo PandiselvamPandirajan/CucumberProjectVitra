@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="19.435839">
+<testcase classname="To Validate Login Functionality of Vitra Application" name="To Validate Login with Valid username and Invalid Password" time="19.435839">
+<skipped><![CDATA[Given To Launch the Chrome browser and hit the Vitra Url....................passed
+When To Enter Valid Email in Email Field....................................passed
+And To Enter Invalid Password in Password Field.............................passed
+And To Click the Deny button on Cookies.....................................undefined
+And To Click the login button...............................................undefined
+Then To Close the Chrome browser............................................skipped
+]]></skipped>
+</testcase>
+</testsuite>
